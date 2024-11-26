@@ -42,20 +42,20 @@ assign x10=(w)&(x)&(y); assign f1=x1|x2|x3|x4|x5; assign f2=x6|x7|x8|x9|x10; end
 
 Developed by:Dharsheni.K RegisterNumber:24006589*/
 
+**Truth Table:**
+![Screenshot 2024-11-26 143200](https://github.com/user-attachments/assets/bc75ae42-ab7a-433a-a7b5-199f6ffdeb39)
 
-**RTL realization**
 
-![Screenshot 2024-11-26 142952](https://github.com/user-attachments/assets/135437b1-8c7c-4147-adb9-73e188232413)
+![Screenshot 2024-11-26 143221](https://github.com/user-attachments/assets/3f7200fa-ce9e-4a80-a218-0c2a988a26df)
 
-**Output:**
-
-![Screenshot 2024-11-26 142936](https://github.com/user-attachments/assets/d2f88b38-bd4f-4fad-b72b-30798ea7c488)
 
 **RTL**
 
-![Screenshot 2024-11-26 143200](https://github.com/user-attachments/assets/bc75ae42-ab7a-433a-a7b5-199f6ffdeb39)
+![Screenshot 2024-11-26 142952](https://github.com/user-attachments/assets/135437b1-8c7c-4147-adb9-73e188232413)
 
-![Screenshot 2024-11-26 143221](https://github.com/user-attachments/assets/3f7200fa-ce9e-4a80-a218-0c2a988a26df)
+**RTL realization**
+![Screenshot 2024-11-26 142936](https://github.com/user-attachments/assets/d2f88b38-bd4f-4fad-b72b-30798ea7c488)
+
 
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
